@@ -1,10 +1,26 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q19161825,President of Liberia,,Q1014,,Q507426,1848-01-03,,Q100233796,,President of Liberia
 Q3098551,Vice President of Liberia,Q1014,Q1014,,,1847-07-26,,,,Vice President of Liberia
+Q110517152,"Minister of Agriculture, Liberia",,Q1014,,,,,,,
+Q110517517,Minister of Commerce and Industry,Q1014,Q1014,,,,,,,
 Q99477490,Defence minister of Liberia,Q1014,Q1014,,,,,,,
 Q99486413,Education Minister of Liberia,Q1014,,,,,,,,
 Q99471788,Finance Minister of Liberia,Q1014,,,,,,,,
 Q6866161,Minister of Foreign Affairs,Q1014,Q1014,,,,,,,Minister of Foreign Affairs (Liberia)
 Q96655501,Minister of Gender and Development,Q1014,Q1014,,,,,,,
+Q110517237,"Minister of Health and Social Welfare, Liberia",,Q1014,,,,,,,
+Q110517841,"Minister of Information, Culture, and Tourism",Q1014,Q1014,,,,,,,
+Q110517563,Minister of Internal Affairs,Q1014,Q1014,,,,,,,
 Q99486387,Justice minister of Liberia,Q1014,,,,,,,,
+Q110517828,Minister of Labour,Q1014,Q1014,,,,,,,
+Q110517576,"Minister of Lands, Mines, and Energy",Q1014,Q1014,,,,,,,
+Q110517568,Minister of Posts and Telecommunications,Q1014,Q1014,,,,,,,
+Q110517570,Minister of Public Works,Q1014,Q1014,,,,,,,
+Q110517589,Minister of Transport,Q1014,Q1014,,,,,,,
+Q110517586,Minister of Youth and Sport,Q1014,Q1014,,,,,,,
+Q110517594,Minister of State for Presidential Affairs,Q1014,Q1014,,,,,,,
+Q110517596,Minister of State without Portfolio,Q1014,Q1014,,,,,,,
 Q5096787,Chief Justice of Liberia,,Q1014,,,1847-07-26,,,,Chief Justice of Liberia
+Q110517623,Speaker of the House of Representatives,,,,,,,,,
+Q62011653,Executive Governor of the Central Bank of Liberia,,,,,,,,,
+Q104829907,Chief of Staff of the Armed Forces (Liberia),,,,,,,,,Chief of Staff of the Armed Forces (Liberia)
