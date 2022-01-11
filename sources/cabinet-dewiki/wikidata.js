@@ -19,7 +19,10 @@ module.exports = function () {
           ?held ps:P39 ?positionItem ; pq:P580 ?startDate .
           FILTER NOT EXISTS { ?held wikibase:rank wikibase:DeprecatedRank }
           OPTIONAL { ?held pq:P582 ?endDate }
-          FILTER (!BOUND(?endDate) || ?endDate > "${meta.cabinet.start}T00:00:00Z"^^xsd:dateTime)
+
+          # Only get people in place at start of cabinet (source is not updated)
+          FILTER (?startDate <= "2018-01-22T00:00:00Z"^^xsd:dateTime)
+          FILTER (!BOUND(?endDate) || ?endDate >= "2018-01-23T00:00:00Z"^^xsd:dateTime)
 
           OPTIONAL {
             ?held prov:wasDerivedFrom ?ref .
