@@ -1,0 +1,639 @@
+{
+  "title": "Regierung Weah",
+  "pageID": 11389269,
+  "categories": [
+    "Kabinett",
+    "Liberianische Regierung"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Die Regierung Weah bildet seit dem 22.",
+              "formatting": {
+                "bold": [
+                  "Regierung Weah"
+                ]
+              }
+            },
+            {
+              "text": "Januar 2018 die Regierung von Liberia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Regierung"
+                },
+                {
+                  "type": "internal",
+                  "page": "Liberia"
+                }
+              ]
+            },
+            {
+              "text": "Sie wurde nach der Präsidentschaftswahl in Liberia 2017 durch den neuen Präsidenten George Weah gebildet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Präsidentschaftswahl in Liberia 2017"
+                }
+              ]
+            },
+            {
+              "text": "Sie löste die Regierung Sirleaf ab.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Regierung Sirleaf"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "Datei:George Weah in 2019 (cropped).jpg",
+          "thumb": "https://de.wikipedia.org/wiki/Special:Redirect/file/Datei%3AGeorge_Weah_in_2019_(cropped).jpg?width=300",
+          "url": "https://de.wikipedia.org/wiki/Special:Redirect/file/Datei%3AGeorge_Weah_in_2019_(cropped).jpg",
+          "caption": "Präsident George Weah",
+          "links": []
+        },
+        {
+          "file": "Datei:Jewel Taylor (9061) (cropped).jpg",
+          "thumb": "https://de.wikipedia.org/wiki/Special:Redirect/file/Datei%3AJewel_Taylor_(9061)_(cropped).jpg?width=300",
+          "url": "https://de.wikipedia.org/wiki/Special:Redirect/file/Datei%3AJewel_Taylor_(9061)_(cropped).jpg",
+          "caption": "Vizepräsidentin Jewel Taylor",
+          "links": []
+        },
+        {
+          "file": "Datei:Gbehzohngar Milton Findley.jpg",
+          "thumb": "https://de.wikipedia.org/wiki/Special:Redirect/file/Datei%3AGbehzohngar_Milton_Findley.jpg?width=300",
+          "url": "https://de.wikipedia.org/wiki/Special:Redirect/file/Datei%3AGbehzohngar_Milton_Findley.jpg",
+          "caption": "Außenminister Gbehzohngar Findley",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Kabinettsmitglieder",
+      "depth": 0,
+      "tables": [
+        [
+          {
+            "Amt": {
+              "text": "Präsident",
+              "links": [
+                {
+                  "text": "Präsident",
+                  "type": "internal",
+                  "page": "Liste der Staatsoberhäupter Liberias"
+                }
+              ]
+            },
+            "Offizielle Bezeichnung": {
+              "text": "President",
+              "formatting": {
+                "italic": [
+                  "President"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "George Weah",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "George Weah"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Vizepräsidentin"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Vice President",
+              "formatting": {
+                "italic": [
+                  "Vice President"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Jewel Taylor",
+              "links": [
+                {
+                  "text": "Jewel Taylor",
+                  "type": "internal",
+                  "page": "Jewel Howard-Taylor"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Außenminister"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of Foreign Affairs",
+              "formatting": {
+                "italic": [
+                  "Minister of Foreign Affairs"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Gbehzohngar Milton Findley",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gbehzohngar Milton Findley"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Finanzminister"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of Finance",
+              "formatting": {
+                "italic": [
+                  "Minister of Finance"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Samuel D. Tweh Jr.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Samuel D. Tweh Jr."
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Justizminister und Generalstaatsanwalt"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of Justice and Attorney-General",
+              "formatting": {
+                "italic": [
+                  "Minister of Justice and Attorney-General"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Musa F. Dean",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Musa F. Dean"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Minister für nationale Verteidigung"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of National Defense",
+              "formatting": {
+                "italic": [
+                  "Minister of National Defense"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Daniel Dee Ziankahn",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Daniel Dee Ziankahn"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Innenminister"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of Internal Affairs",
+              "formatting": {
+                "italic": [
+                  "Minister of Internal Affairs"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Varney A. Sirleaf",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Varney A. Sirleaf"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Bildungsminister"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of Education",
+              "formatting": {
+                "italic": [
+                  "Minister of Education"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Ansu Sonii",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ansu Sonii"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Minister für Post und Telekommunikation"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of Posts and Telecommunications",
+              "formatting": {
+                "italic": [
+                  "Minister of Posts and Telecommunications"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Cooper Kruah",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cooper Kruah"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Minister für öffentliche Arbeiten"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of Public Works",
+              "formatting": {
+                "italic": [
+                  "Minister of Public Works"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Mobutu Nyenpan",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mobutu Nyenpan"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Landwirtschaftsministerin"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of Agriculture",
+              "formatting": {
+                "italic": [
+                  "Minister of Agriculture"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Jeanine M. Cooper",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jeanine M. Cooper"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Ministerin für Gesundheit und Soziales"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of Health and Social Welfare",
+              "formatting": {
+                "italic": [
+                  "Minister of Health and Social Welfare"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Williamina Jallah",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Williamina Jallah"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Minister für Information, Kultur und Tourismus"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of Information, Culture, and Tourism",
+              "formatting": {
+                "italic": [
+                  "Minister of Information, Culture, and Tourism"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Eugene Lenn Nagbe",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eugene Lenn Nagbe"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Minister für Land, Bergbau und Energie"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of Lands, Mines, and Energy",
+              "formatting": {
+                "italic": [
+                  "Minister of Lands, Mines, and Energy"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Gesler E. Murray",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gesler E. Murray"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Minister für Handel und Industrie"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of Commerce and Industry",
+              "formatting": {
+                "italic": [
+                  "Minister of Commerce and Industry"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Wilson K. Tarpeh",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Wilson K. Tarpeh"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Arbeitsminister"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of Labor",
+              "formatting": {
+                "italic": [
+                  "Minister of Labor"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Moses Y. Kollie",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Moses Y. Kollie"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Minister für Jugend und Sport"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of Youth and Sport",
+              "formatting": {
+                "italic": [
+                  "Minister of Youth and Sport"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Dester Zeogar Wilson",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dester Zeogar Wilson"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Verkehrsminister"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of Transport",
+              "formatting": {
+                "italic": [
+                  "Minister of Transport"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Samuel Wlue",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Samuel Wlue"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Ministerin für Gleichstellung, Kinder und Sozialschutz"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of Gender, Children and Social Protection",
+              "formatting": {
+                "italic": [
+                  "Minister of Gender, Children and Social Protection"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Williametta Piso Saydee-Tarr",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Williametta Piso Saydee-Tarr"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Staatsminister für Präsidentschaftsangelegenheiten"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of State for Presidential Affairs",
+              "formatting": {
+                "italic": [
+                  "Minister of State for Presidential Affairs"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Nathaniel F. McGill",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nathaniel F. McGill"
+                }
+              ]
+            }
+          },
+          {
+            "Amt": {
+              "text": "Staatsminister ohne Geschäftsbereich"
+            },
+            "Offizielle Bezeichnung": {
+              "text": "Minister of State without Portfolio",
+              "formatting": {
+                "italic": [
+                  "Minister of State without Portfolio"
+                ]
+              }
+            },
+            "Amtsinhaber": {
+              "text": "Trokon A. Kpu i",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Trokon A. Kpu"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Einzelnachweise",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "navigationsleiste au-regierungen"
+        }
+      ]
+    }
+  ]
+}

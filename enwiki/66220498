@@ -1,0 +1,537 @@
+{
+  "title": "Chief of Staff of the Armed Forces (Liberia)",
+  "pageID": 66220498,
+  "categories": [
+    "Military of Ivory Coast",
+    "Chiefs of defence"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Chief of Staff is the professional head of the Armed Forces of the Republic of Liberia.",
+              "links": [
+                {
+                  "text": "Armed Forces",
+                  "type": "internal",
+                  "page": "Armed Forces of Liberia"
+                },
+                {
+                  "text": "Republic of Liberia",
+                  "type": "internal",
+                  "page": "Liberia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Chief of Staff"
+                ]
+              }
+            },
+            {
+              "text": "The Chief of Staff is appointed by the President of Liberia, who is the commander-in-chief of the Armed Forces according to the Constitution.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of Liberia"
+                },
+                {
+                  "text": "commander-in-chief",
+                  "type": "internal",
+                  "page": "commander-in-chief"
+                },
+                {
+                  "text": "Constitution",
+                  "type": "internal",
+                  "page": "Constitution of Liberia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The current Chief of Staff is Major General Prince C. Johnson III, since 6 February 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Prince C. Johnson III"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Head of the armed forces of Liberia",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "http://mod.gov.lr/the-forces/chief-of-staff-cos-2/"
+          ],
+          "template": "official website"
+        }
+      ],
+      "infoboxes": [
+        {
+          "post": {
+            "text": "Chief of Staff"
+          },
+          "body": {
+            "text": "the Armed Forces of Liberia"
+          },
+          "image": {
+            "text": "Prince C. Johnson III (49723354102) (cropped).jpg"
+          },
+          "incumbent": {
+            "text": "Major General Prince C. Johnson III",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prince C. Johnson III"
+              }
+            ]
+          },
+          "incumbentsince": {
+            "text": "6 February 2018"
+          },
+          "department": {
+            "text": "Armed Forces",
+            "links": [
+              {
+                "text": "Armed Forces",
+                "type": "internal",
+                "page": "Armed Forces of Liberia"
+              }
+            ]
+          },
+          "type": {
+            "text": "Chief of staff",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief of staff"
+              }
+            ]
+          },
+          "abbreviation": {
+            "text": "COS – AFL"
+          },
+          "appointer": {
+            "text": "President",
+            "links": [
+              {
+                "text": "President",
+                "type": "internal",
+                "page": "President of Liberia"
+              }
+            ]
+          },
+          "appointer_qualified": {
+            "text": "with Senate advice and consent",
+            "links": [
+              {
+                "text": "Senate",
+                "type": "internal",
+                "page": "Senate of Liberia"
+              },
+              {
+                "text": "advice and consent",
+                "type": "internal",
+                "page": "advice and consent"
+              }
+            ]
+          },
+          "termlength": {
+            "text": "at the pleasure of the President"
+          },
+          "formation": {
+            "text": "1909",
+            "number": 1909
+          },
+          "first": {
+            "text": "Major Cadell"
+          },
+          "deputy": {
+            "text": "Vice Chief of Staff"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "List of officeholders",
+      "depth": 0
+    },
+    {
+      "title": "Liberia Frontier Force",
+      "depth": 1,
+      "templates": [
+        {
+          "showorder": "y",
+          "showimage": "y",
+          "image_title": "Portrait",
+          "officeholder_title": "Chief of Staff",
+          "showtermlenght": "y",
+          "showparty": "n",
+          "showdefencebranch": "n",
+          "showref": "y",
+          "template": "officeholder table start"
+        },
+        {
+          "order": "?",
+          "military_rank": "Major General",
+          "officeholder": "Alexander Harper",
+          "officeholder_sort": "Harper, Alexander",
+          "term_start": "1952",
+          "term_end": "1954",
+          "timeinoffice": "0 years years",
+          "ref": "–",
+          "template": "officeholder table"
+        },
+        {
+          "order": "?",
+          "military_rank": "Lieutenant General",
+          "officeholder": "Abraham Jackson",
+          "officeholder_sort": "Jackson, Abraham",
+          "term_start": "1954",
+          "term_end": "1960",
+          "timeinoffice": "0 years years",
+          "ref": "–",
+          "template": "officeholder table"
+        },
+        {
+          "template": "officeholder table end"
+        }
+      ]
+    },
+    {
+      "title": "Armed Forces of Liberia",
+      "depth": 1,
+      "templates": [
+        {
+          "showorder": "y",
+          "showimage": "y",
+          "image_title": "Portrait",
+          "officeholder_title": "Chief of Staff",
+          "showtermlenght": "y",
+          "showparty": "n",
+          "showdefencebranch": "n",
+          "showref": "y",
+          "template": "officeholder table start"
+        },
+        {
+          "order": "1",
+          "image": "Yitzhak Rabin meets George T. Washington from Liberia.jpg",
+          "military_rank": "Lieutenant General",
+          "officeholder": "George T. Washington",
+          "officeholder_sort": "Washington, George",
+          "term_start": "1965",
+          "term_end": "1970",
+          "timeinoffice": "0 years years",
+          "ref": "–",
+          "template": "officeholder table"
+        },
+        {
+          "order": "2",
+          "military_rank": "Lieutenant General",
+          "officeholder": "Henry Korboi Johnson",
+          "officeholder_sort": "Johnson, Henry",
+          "term_start": "1970",
+          "term_end": "1974",
+          "timeinoffice": "0 years years",
+          "ref": "–",
+          "template": "officeholder table"
+        },
+        {
+          "order": "?",
+          "military_rank": "Brigadier General",
+          "officeholder": "Edwin Lloyd",
+          "officeholder_sort": "Lloyd, Edwin",
+          "term_start": "?",
+          "term_end": "May 1980",
+          "timeinoffice": "?",
+          "template": "officeholder table"
+        },
+        {
+          "order": "?",
+          "military_rank": "Brigadier General",
+          "officeholder": "Thomas Quiwonkpa",
+          "officeholder_sort": "Quiwonkpa, Thomas",
+          "born_year": "1955",
+          "died_year": "1985",
+          "term_start": "May 1980",
+          "term_end": "1983",
+          "timeinoffice": "0 years years",
+          "template": "officeholder table"
+        },
+        {
+          "order": "?",
+          "military_rank": "Lieutenant General",
+          "officeholder": "Henry Dubar",
+          "officeholder_sort": "Dubar, Henry",
+          "term_start": "1983",
+          "term_end": "30 June 1990",
+          "timeinoffice": "0 years years",
+          "template": "officeholder table"
+        },
+        {
+          "list": [
+            "1990",
+            "06",
+            "30",
+            "1990",
+            "07",
+            "05"
+          ],
+          "template": "ayd"
+        },
+        {
+          "order": "?",
+          "military_rank": "Lieutenant General",
+          "officeholder": "Charles Julue",
+          "officeholder_sort": "Julue, Charles",
+          "term_start": "30 June 1990",
+          "term_end": "5 July 1990",
+          "template": "officeholder table"
+        },
+        {
+          "list": [
+            "1997",
+            "06",
+            "1",
+            "1999",
+            "11",
+            "1"
+          ],
+          "template": "ayd"
+        },
+        {
+          "order": "?",
+          "military_rank": "Lieutenant General",
+          "officeholder": "Prince C. Johnson II",
+          "officeholder_sort": "Johnson II, Prince",
+          "born_year": "?",
+          "died_year": "1999",
+          "died": "y",
+          "term_start": "August 1997",
+          "term_end": "November 1999",
+          "template": "officeholder table"
+        },
+        {
+          "order": "?",
+          "military_rank": "Lieutenant General",
+          "officeholder": "Kpengbai Y. Konah",
+          "officeholder_sort": "Konah, Kpengbai",
+          "term_start": "25 November 1999",
+          "term_end": "?",
+          "timeinoffice": "?",
+          "template": "officeholder table"
+        },
+        {
+          "list": [
+            "2007",
+            "06",
+            "06",
+            "2014",
+            "02",
+            "11"
+          ],
+          "template": "ayd"
+        },
+        {
+          "order": "?",
+          "image": "Suraj Abdurrahman (4618446285) (cropped).jpg",
+          "military_rank": "Major General",
+          "officeholder": "Suraj Abdurrahman",
+          "officeholder_sort": "Abdurrahman, Suraj",
+          "born_year": "1954",
+          "died_year": "2015",
+          "term_start": "6 June 2007",
+          "term_end": "11 February 2014",
+          "template": "officeholder table"
+        },
+        {
+          "list": [
+            "2014",
+            "02",
+            "11",
+            "2018",
+            "02",
+            "06"
+          ],
+          "template": "ayd"
+        },
+        {
+          "order": "?",
+          "image": "Daniel Dee Ziankhan (cropped).jpg",
+          "military_rank": "Major General",
+          "officeholder": "Daniel Dee Ziankhan",
+          "officeholder_sort": "Ziankhan, Daniel",
+          "born_year": "1971",
+          "term_start": "11 February 2014",
+          "term_end": "6 February 2018",
+          "template": "officeholder table"
+        },
+        {
+          "list": [
+            "2018",
+            "02",
+            "06"
+          ],
+          "template": "ayd"
+        },
+        {
+          "order": "?",
+          "image": "Prince C. Johnson III (49723354102) (cropped).jpg",
+          "military_rank": "Major General",
+          "officeholder": "Prince C. Johnson III",
+          "officeholder_sort": "Johnson III, Prince",
+          "born_year": "1976",
+          "term_start": "6 February 2018",
+          "template": "officeholder table"
+        },
+        {
+          "template": "officeholder table end"
+        }
+      ],
+      "references": [
+        {
+          "last1": "Huband",
+          "first1": "Mark",
+          "title": "The Liberian Civil War",
+          "date": "2013",
+          "publisher": "Routledge",
+          "isbn": "9781135252144",
+          "page": "135",
+          "url": "https://books.google.com/books?id=14BArd5UrA8C&q=Lieutenant+General+Henry+Dubar&pg=PA135",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "author1": "Reuters",
+          "title": "Liberian Troops Reported to Loot Capital Shops as Rebels Advance",
+          "url": "https://www.nytimes.com/1990/07/06/world/liberian-troops-reported-to-loot-capital-shops-as-rebels-advance.html",
+          "access-date": "28 December 2020",
+          "work": "nytimes.com",
+          "agency": "The New York Times",
+          "publisher": "The New York Times Company",
+          "date": "6 July 1990",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author": "Nicholai Hart Lidow",
+          "title": "Violent Order: Rebel Organization and Liberia's Civil War",
+          "url": "https://books.google.com/books?id=B-GZ2lEON64C&pg=PA177",
+          "year": "2011",
+          "publisher": "Stanford University",
+          "pages": "175, 177",
+          "id": "STANFORD:cd347ss0802",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "Immediate Past COS",
+          "url": "http://mod.gov.lr/the-forces/immediate-past-cos/",
+          "website": "mod.gov.lr",
+          "publisher": "Ministry of National Defense",
+          "access-date": "28 December 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author1": "Admin",
+          "title": "AFL Retires Gen. Ziankahn…New Chief Of Staff Says Challenges In Military Will Be Mitigated",
+          "url": "https://theinquirerlib.com/afl-retires-gen-ziankahnnew-chief-of-staff-says-challenges-in-military-will-be-mitigated/",
+          "access-date": "28 December 2020",
+          "work": "theinquirerlib.com",
+          "date": "25 January 2018",
+          "archive-url": "https://web.archive.org/web/20190817122446/https://theinquirerlib.com/afl-retires-gen-ziankahnnew-chief-of-staff-says-challenges-in-military-will-be-mitigated/",
+          "archive-date": "17 August 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "author1": "Admin",
+          "title": "Liberia: Thomas Quiwonkpa And The Coup That Failed, This Day in History",
+          "url": "https://frontpageafricaonline.com/front-slider/liberia-thomas-quiwonkpa-and-the-coup-that-failed-this-day-in-history/",
+          "access-date": "28 December 2020",
+          "work": "frontpageafricaonline.com",
+          "date": "12 November 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Kahler",
+          "first1": "Peter",
+          "title": "Liberia: Taylor Names New Army Chief Of Staff",
+          "url": "https://allafrica.com/stories/199911180234.html",
+          "access-date": "28 December 2020",
+          "work": "Panafrican News Agency",
+          "date": "18 November 1999",
+          "location": "Dakar",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Armed Forces of Liberia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Armed Forces of Liberia"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "liberia topics"
+        },
+        {
+          "template": "chief of military by country"
+        }
+      ]
+    }
+  ]
+}
