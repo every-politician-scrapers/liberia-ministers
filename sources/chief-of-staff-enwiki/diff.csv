@@ -1,10 +1,12 @@
 @@,itemlabel,item,startdate,enddate
 +++,Edwin Lloyd,,,1980-05
-->,George T. Washington,Q5545058,1965-01-01->1965,1970-01-01->1970
++++,George T. Washington,Q5545058,1965,1970
 +++,Henry Korboi Johnson,,1970,1974
-->,Thomas Quiwonkpa,Q7793332,1980-05-01->1980-05,1983-01-01->1983
++++,Thomas Quiwonkpa,Q7793332,1980-05,1983
 +++,Henry Dubar,,1983,1990-06-30
 +++,Charles Julue,,1990-06-30,1990-07-05
-->,Prince C. Johnson II,Q66498818,1997-08-01->1997-08,1999-11-01->1999-11
++++,Prince C. Johnson II,Q66498818,1997-08,1999-11
 +++,Kpengbai Y. Konah,,1999-11-25,
++++,Suraj Abdurrahman,Q7645321,2007-06-06,2014-02-11
 +++,Daniel Dee Ziankhan,,2014-02-11,2018-02-06
++++,Prince C. Johnson III,Q66498832,2018-02-06,
