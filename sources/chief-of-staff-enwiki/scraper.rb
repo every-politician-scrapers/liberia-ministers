@@ -4,32 +4,22 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-require 'open-uri/cached'
-
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
   decorator WikidataIdsDecorator::Links
 
   def header_column
-    'Portrait'
+    'Image'
   end
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[no image name start end duration].freeze
+      %w[image rank name title dates].freeze
     end
 
-    def itemLabel
-      name_link_text || noko.css('b').text.tidy
-    end
-
-    def raw_end
-      super.gsub(/[†?]/, '').tidy
-    end
-
-    def raw_start
-      super.gsub(/[?]/, '').tidy
+    def empty?
+      raw_combo_date.include?('?') || raw_combo_date.include?('Early')
     end
   end
 end
