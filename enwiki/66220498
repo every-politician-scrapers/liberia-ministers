@@ -209,7 +209,6 @@
           "term_start": "1954",
           "term_end": "1960",
           "timeinoffice": "0 years years",
-          "ref": "–",
           "template": "officeholder table"
         },
         {
@@ -220,390 +219,535 @@
     {
       "title": "Armed Forces of Liberia",
       "depth": 1,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "From 1952 onwards, Chiefs of Staff of the AFL included Major General Alexander Harper (1952–54), Lieutenant General Abraham Jackson (1954–60), Albert T. White (1964–65), Lieutenant General George T. Washington (late 1960s), Lieutenant General Henry Korboi Johnson (1970–74), Lieutenant General Franklin Smith, and Lieutenant General Henry Dubar (up until 1990).",
-              "links": [
-                {
-                  "text": "George T. Washington",
-                  "type": "internal",
-                  "page": "George T. Washington (Liberia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Henry Korboi Johnson"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Thomas Quiwonkpa was born 1955 and died 1985.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Thomas Quiwonkpa"
-                }
-              ]
-            }
-          ]
-        }
-      ],
       "tables": [
         [
           {
-            "Image": {
+            "col1": {
+              "text": "Portrait"
+            },
+            "col2": {
+              "text": "Name (born–died)"
+            },
+            "col3": {
+              "text": "Title"
+            },
+            "col4": {
+              "text": "Term of office"
+            },
+            "col5": {
               "text": ""
             },
-            "Rank": {
-              "text": "Major General"
-            },
-            "Name": {
-              "text": "Alexander Harper",
-              "links": [
-                {
-                  "text": "Alexander Harper",
-                  "type": "internal",
-                  "page": "Alexander Harper (soldier)"
-                }
-              ]
-            },
-            "Title": {
-              "text": "Chief of Staff of the AFL"
-            },
-            "Term": {
-              "text": "1952 - 1954"
-            },
-            "Notes/Ref": {
+            "col6": {
               "text": ""
+            },
+            "col7": {
+              "text": "Ref."
             }
           },
           {
-            "Image": {
-              "text": "Yitzhak Rabin meets George T. Washington from Liberia.jpg"
+            "col1": {
+              "text": "Portrait"
             },
-            "Rank": {
-              "text": "Lieutenant General",
+            "col2": {
+              "text": "Name (born–died)"
+            },
+            "col3": {
+              "text": "Title"
+            },
+            "col4": {
+              "text": "Took office"
+            },
+            "col5": {
+              "text": "Left office"
+            },
+            "col6": {
+              "text": "Time in office"
+            },
+            "col7": {
+              "text": "Ref."
+            }
+          },
+          {
+            "col1": {
+              "text": "Yitzhak Rabin meets George T. Washington from Liberia (cropped).jpg"
+            },
+            "col2": {
+              "text": "Lieutenant General George T. Washington",
               "links": [
                 {
                   "type": "internal",
                   "page": "Lieutenant General"
-                }
-              ]
-            },
-            "Name": {
-              "text": "George T. Washington",
-              "links": [
+                },
                 {
                   "text": "George T. Washington",
                   "type": "internal",
                   "page": "George T. Washington (Liberia)"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "George T. Washington"
+                ]
+              }
             },
-            "Title": {
+            "col3": {
               "text": "Chief of Staff of the AFL"
             },
-            "Term": {
-              "text": "1965 - 1970"
+            "col4": {
+              "text": "1965",
+              "number": 1965
             },
-            "Notes/Ref": {
+            "col5": {
+              "text": "1970",
+              "number": 1970
+            },
+            "col6": {
+              "text": "0 years years"
+            },
+            "col7": {
               "text": ""
             }
           },
           {
-            "Image": {
-              "text": ""
+            "col1": {
+              "text": "no image.png"
             },
-            "Rank": {
-              "text": "Lieutenant General"
-            },
-            "Name": {
-              "text": "Henry Korboi Johnson",
+            "col2": {
+              "text": "Lieutenant General Henry Korboi Johnson",
               "links": [
                 {
                   "type": "internal",
                   "page": "Henry Korboi Johnson"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Henry Korboi Johnson"
+                ]
+              }
             },
-            "Title": {
+            "col3": {
               "text": "Chief of Staff of the AFL"
             },
-            "Term": {
-              "text": "1970 – 1974"
+            "col4": {
+              "text": "1970",
+              "number": 1970
             },
-            "Notes/Ref": {
+            "col5": {
+              "text": "1974",
+              "number": 1974
+            },
+            "col6": {
+              "text": "0 years years"
+            },
+            "col7": {
               "text": ""
             }
           },
           {
-            "Image": {
-              "text": ""
+            "col1": {
+              "text": "no image.png"
             },
-            "Rank": {
-              "text": "Brigadier General"
-            },
-            "Name": {
-              "text": "Edwin Lloyd",
+            "col2": {
+              "text": "Brigadier General Edwin Lloyd",
               "links": [
                 {
                   "type": "internal",
                   "page": "Edwin Lloyd"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Edwin Lloyd"
+                ]
+              }
             },
-            "Title": {
+            "col3": {
               "text": "Chief of Staff of the AFL"
             },
-            "Term": {
-              "text": "? - May 1980"
+            "col4": {
+              "text": "?"
             },
-            "Notes/Ref": {
+            "col5": {
+              "text": "May 1980"
+            },
+            "col6": {
+              "text": "?"
+            },
+            "col7": {
               "text": ""
             }
           },
           {
-            "Image": {
-              "text": ""
+            "col1": {
+              "text": "no image.png"
             },
-            "Rank": {
-              "text": "Brigadier General"
-            },
-            "Name": {
-              "text": "Thomas Quiwonkpa",
+            "col2": {
+              "text": "Brigadier General Thomas Quiwonkpa (1955–1985)",
               "links": [
                 {
                   "type": "internal",
                   "page": "Thomas Quiwonkpa"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Thomas Quiwonkpa"
+                ]
+              }
             },
-            "Title": {
+            "col3": {
               "text": "Commanding General of the AFL"
             },
-            "Term": {
-              "text": "May 1980 - 1983"
+            "col4": {
+              "text": "May 1980"
             },
-            "Notes/Ref": {
+            "col5": {
+              "text": "1983",
+              "number": 1983
+            },
+            "col6": {
+              "text": "0 years years"
+            },
+            "col7": {
               "text": ""
             }
           },
           {
-            "Image": {
-              "text": ""
+            "col1": {
+              "text": "no image.png"
             },
-            "Rank": {
-              "text": "Lieutenant General"
-            },
-            "Name": {
-              "text": "Henry Dubar",
+            "col2": {
+              "text": "Lieutenant General Henry Dubar",
               "links": [
                 {
                   "type": "internal",
                   "page": "Henry Dubar"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Henry Dubar"
+                ]
+              }
             },
-            "Title": {
-              "text": "Cmding General of the AFL (?)"
+            "col3": {
+              "text": "Commanding General of the AFL (?)"
             },
-            "Term": {
-              "text": "1983 – June 1990"
+            "col4": {
+              "text": "1983",
+              "number": 1983
             },
-            "Notes/Ref": {
+            "col5": {
+              "text": "30 June 1990"
+            },
+            "col6": {
+              "text": "0 years years"
+            },
+            "col7": {
               "text": ""
             }
           },
           {
-            "Image": {
-              "text": ""
+            "col1": {
+              "text": "no image.png"
             },
-            "Rank": {
-              "text": "Lieutenant General"
-            },
-            "Name": {
-              "text": "Charles Julue",
+            "col2": {
+              "text": "Lieutenant General Charles Julue",
               "links": [
                 {
                   "type": "internal",
                   "page": "Charles Julue"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Charles Julue"
+                ]
+              }
             },
-            "Title": {
-              "text": "Cmding General of the AFL (?)"
+            "col3": {
+              "text": "Commanding General of the AFL (?)"
             },
-            "Term": {
-              "text": "30 June 1990 - 5 July 1990"
+            "col4": {
+              "text": "30 June 1990"
             },
-            "Notes/Ref": {
+            "col5": {
+              "text": "5 July 1990"
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
               "text": ""
             }
           },
           {
-            "Image": {
-              "text": ""
+            "col1": {
+              "text": "no image.png"
             },
-            "Rank": {
-              "text": ""
-            },
-            "Name": {
-              "text": "Hezekiah Bowen",
+            "col2": {
+              "text": "Lieutenant General Hezekiah Bowen (1943–2010)",
               "links": [
                 {
                   "type": "internal",
                   "page": "Hezekiah Bowen"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Hezekiah Bowen"
+                ]
+              }
             },
-            "Title": {
-              "text": ""
+            "col3": {
+              "text": "Commanding General of the AFL (?)"
             },
-            "Term": {
+            "col4": {
               "text": "Early 1990s"
             },
-            "Notes/Ref": {
-              "text": "See article"
+            "col5": {
+              "text": ""
+            },
+            "col6": {
+              "text": "?"
+            },
+            "col7": {
+              "text": ""
             }
           },
           {
-            "Image": {
-              "text": ""
+            "col1": {
+              "text": "no image.png"
             },
-            "Rank": {
-              "text": "Lieutenant General"
-            },
-            "Name": {
-              "text": "Prince C. Johnson II",
+            "col2": {
+              "text": "Lieutenant General Prince C. Johnson II (?–1999)",
               "links": [
                 {
                   "type": "internal",
                   "page": "Prince C. Johnson II"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Prince C. Johnson II"
+                ]
+              }
             },
-            "Title": {
+            "col3": {
               "text": "Commanding General of the AFL"
             },
-            "Term": {
-              "text": "August 1997 - November 1999"
+            "col4": {
+              "text": "August 1997"
             },
-            "Notes/Ref": {
+            "col5": {
+              "text": "November 1999 †"
+            },
+            "col6": {
+              "text": "2 years, 5 months"
+            },
+            "col7": {
               "text": ""
             }
           },
           {
-            "Image": {
-              "text": ""
+            "col1": {
+              "text": "no image.png"
             },
-            "Rank": {
-              "text": "Lieutenant General"
-            },
-            "Name": {
-              "text": "Kpengbai Y. Konah",
+            "col2": {
+              "text": "Lieutenant General Kpengbai Y. Konah",
               "links": [
                 {
                   "type": "internal",
                   "page": "Kpengbai Y. Konah"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Kpengbai Y. Konah"
+                ]
+              }
             },
-            "Title": {
+            "col3": {
               "text": "?"
             },
-            "Term": {
-              "text": "25 November 1999 - ?"
+            "col4": {
+              "text": "25 November 1999"
             },
-            "Notes/Ref": {
+            "col5": {
+              "text": "?"
+            },
+            "col6": {
+              "text": "?"
+            },
+            "col7": {
               "text": ""
             }
           },
           {
-            "Image": {
+            "col1": {
               "text": "Suraj Abdurrahman (4618446285) (cropped).jpg"
             },
-            "Rank": {
-              "text": "Major General"
-            },
-            "Name": {
-              "text": "Suraj Abdurrahman",
+            "col2": {
+              "text": "Major General Suraj Abdurrahman (1954–2015)",
               "links": [
                 {
                   "type": "internal",
                   "page": "Suraj Abdurrahman"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Suraj Abdurrahman"
+                ]
+              }
             },
-            "Title": {
+            "col3": {
               "text": "Command Officer-in-Charge"
             },
-            "Term": {
-              "text": "6 June 2007 - 11 February 2014"
+            "col4": {
+              "text": "6 June 2007"
             },
-            "Notes/Ref": {
+            "col5": {
+              "text": "11 February 2014"
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
               "text": ""
             }
           },
           {
-            "Image": {
+            "col1": {
               "text": "Daniel Dee Ziankhan (cropped).jpg"
             },
-            "Rank": {
-              "text": "Major General"
-            },
-            "Name": {
-              "text": "Daniel Dee Ziankhan",
+            "col2": {
+              "text": "Major General Daniel Dee Ziankhan (born 1971)",
               "links": [
                 {
                   "type": "internal",
                   "page": "Daniel Dee Ziankhan"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Daniel Dee Ziankhan"
+                ]
+              }
             },
-            "Title": {
+            "col3": {
               "text": "Chief of Staff of the AFL"
             },
-            "Term": {
-              "text": "11 February 2014 - 6 February 2018"
+            "col4": {
+              "text": "11 February 2014"
             },
-            "Notes/Ref": {
+            "col5": {
+              "text": "6 February 2018"
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
               "text": ""
             }
           },
           {
-            "Image": {
+            "col1": {
               "text": "Prince C. Johnson III (49723354102) (cropped).jpg"
             },
-            "Rank": {
-              "text": "Major General"
-            },
-            "Name": {
-              "text": "Prince C. Johnson III",
+            "col2": {
+              "text": "Major General Prince C. Johnson III (born 1976)",
               "links": [
                 {
                   "type": "internal",
                   "page": "Prince C. Johnson III"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Prince C. Johnson III"
+                ]
+              }
             },
-            "Title": {
+            "col3": {
               "text": "Chief of Staff of the AFL"
             },
-            "Term": {
-              "text": "6 February 2018 -"
+            "col4": {
+              "text": "6 February 2018"
             },
-            "Notes/Ref": {
+            "col5": {
+              "text": "Incumbent",
+              "formatting": {
+                "italic": [
+                  "Incumbent"
+                ]
+              }
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
               "text": ""
             }
           }
         ]
       ],
+      "templates": [
+        {
+          "abbr": "Ref.",
+          "meaning": "References",
+          "template": "abbr"
+        },
+        {
+          "list": [
+            "1990",
+            "06",
+            "30",
+            "1990",
+            "07",
+            "05"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
+            "2007",
+            "06",
+            "06",
+            "2014",
+            "02",
+            "11"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
+            "2014",
+            "02",
+            "11",
+            "2018",
+            "02",
+            "06"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
+            "2018",
+            "02",
+            "06"
+          ],
+          "template": "ayd"
+        }
+      ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "last1": "Huband",
           "first1": "Mark",

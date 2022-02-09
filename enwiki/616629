@@ -70,7 +70,7 @@
         {
           "sentences": [
             {
-              "text": "George Manneh Oppong Weah (born 1 October 1966) is a Liberian politician and former professional footballer who is currently serving as the 25th President of Liberia, in office since 2018.",
+              "text": "George Manneh Oppong Weah (born 1 October 1966) is a Liberian politician and former professional footballer who is serving as the president of Liberia, in office since 2018.",
               "links": [
                 {
                   "text": "footballer",
@@ -78,9 +78,9 @@
                   "page": "Association football"
                 },
                 {
-                  "text": "25th President of Liberia",
+                  "text": "president of Liberia",
                   "type": "internal",
-                  "page": "President of Liberia"
+                  "page": "president of Liberia"
                 }
               ],
               "formatting": {
@@ -700,7 +700,7 @@
             "number": 194
           },
           "nationalyears1": {
-            "text": "1986–2018"
+            "text": "1986–2002"
           },
           "nationalteam1": {
             "text": "Liberia",
