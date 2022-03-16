@@ -1,10 +1,10 @@
 id,name,relationship,relative,relativename
-Q1688608,Jewel Taylor,spouse,Q49090,Charles Taylor
-Q173139,George Weah,child,Q31871265,Timothy Weah
-Q173139,George Weah,child,Q5546097,George Weah Jr.
-Q173139,George Weah,relative,Q583258,Christopher Wreh
-Q173139,George Weah,spouse,Q64978226,Clar Marie Weah
-Q43179,Ellen Johnson Sirleaf,relative,Q7317107,Retta
-Q49090,Charles Taylor,child,Q1066230,Chuckie Taylor
-Q49090,Charles Taylor,spouse,Q1688608,Jewel Taylor
-Q891036,Henry Boimah Fahnbulleh,sibling,Q47538978,Miatta Fahnbulleh
+Q1688608,Jewel Taylor,spouse,Q49090,
+Q173139,George Weah,child,Q31871265,
+Q173139,George Weah,child,Q5546097,
+Q173139,George Weah,relative,Q583258,
+Q173139,George Weah,spouse,Q64978226,
+Q43179,Ellen Johnson Sirleaf,relative,Q7317107,
+Q49090,Charles Taylor,child,Q1066230,
+Q49090,Charles Taylor,spouse,Q1688608,
+Q891036,Henry Boimah Fahnbulleh,sibling,Q47538978,
