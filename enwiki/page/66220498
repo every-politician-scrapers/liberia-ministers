@@ -334,11 +334,40 @@
               "number": 1970
             },
             "col5": {
-              "text": "1974",
-              "number": 1974
+              "text": "September 1979"
             },
             "col6": {
               "text": "0 years years"
+            },
+            "col7": {
+              "text": ""
+            }
+          },
+          {
+            "col1": {
+              "text": "no image.png"
+            },
+            "col2": {
+              "text": "Franklin J. Smith"
+            },
+            "col3": {
+              "text": "Chief of Staff of the AFL"
+            },
+            "col4": {
+              "text": "September 1979"
+            },
+            "col5": {
+              "text": "1980? Seized and repeatedly beaten in aftermath of 1980 Liberian coup d'état.",
+              "links": [
+                {
+                  "text": "1980 Liberian coup d'état",
+                  "type": "internal",
+                  "page": "1980 Liberian coup d'état"
+                }
+              ]
+            },
+            "col6": {
+              "text": ""
             },
             "col7": {
               "text": ""
@@ -435,8 +464,7 @@
               "text": "Commanding General of the AFL (?)"
             },
             "col4": {
-              "text": "1983",
-              "number": 1983
+              "text": "1980(?) Promoted in one leap from Captain to Lt Gen as Chief of Staff after coup."
             },
             "col5": {
               "text": "30 June 1990"
@@ -749,6 +777,18 @@
           "inline": {}
         },
         {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
           "last1": "Huband",
           "first1": "Mark",
           "title": "The Liberian Civil War",
@@ -816,6 +856,12 @@
           "inline": {}
         },
         {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
           "author1": "Admin",
           "title": "Liberia: Thomas Quiwonkpa And The Coup That Failed, This Day in History",
           "url": "https://frontpageafricaonline.com/front-slider/liberia-thomas-quiwonkpa-and-the-coup-that-failed-this-day-in-history/",
@@ -824,6 +870,12 @@
           "date": "12 November 2018",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "last1": "Kahler",
