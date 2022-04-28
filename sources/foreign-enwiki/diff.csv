@@ -31,7 +31,7 @@
 ---,Henry Boimah Fahnbulleh,Q891036,1981-01-01,1983-01-01
 ->,Ernest Eastman,Q1277724,1983-01-01->1983,1986-01-01->1986
 ->,John Bernard Blamo,Q16096855,1986-01-01->1986,1987-01-01->1987
-->,Joseph Rudolph Johnson,Q99475095->NULL,1987-01-01->1987,1990-01-01->1990
+->,Joseph Rudolph Johnson,Q99475095,1987-01-01->1987,1990-01-01->1990
 +++,Gabriel Baccus Matthews,Q5515539,1990,1993
 ---,Gabriel Baccus Matthews,Q5515539,1990-01-01,1993-01-01
 +++,Momoly Sirleaf,,1993,1994
@@ -45,9 +45,9 @@
 ->,George Wallace,Q5545832,2006-02-01->2006,2007-08-22->2007
 ->,Olubanke King Akerele,Q436587,2007-08-22->2007,2010-11-03->2010
 ---,Sylvester Grigsby,Q108443109,2010-01-01,2010-01-01
-->,Toga G. McIntosh,Q99472393->NULL,2010-11-03->2010,2012-02-10->2012
+->,Toga G. McIntosh,Q99472393,2010-11-03->2010,2012-02-10->2012
 ->,Augustine Kpehe Ngafuan,Q4821195,2012-02-10->2012,2015-10-02->2015
-->,B. Elias Shoniyin,Q99472381->NULL,2015-10-02->2015,2016-01-06->2016
+->,B. Elias Shoniyin,Q99472381,2015-10-02->2015,2016-01-06->2016
 ->,Marjon Kamara,Q29294975,2016-01-06->2016,2018-01-22->2018
 ->,Gbehzohngar Findley->Gbehzohngar Milton Findley,Q9266530,2018-01-22->2018,2020-07-28->2020
 +++,Henry Boimah Fahnbulleh,Q891036,2020,2020
