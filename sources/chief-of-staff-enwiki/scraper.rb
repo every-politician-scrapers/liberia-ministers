@@ -10,16 +10,20 @@ class OfficeholderList < OfficeholderListBase
   decorator WikidataIdsDecorator::Links
 
   def header_column
-    'Image'
+    'Portrait'
   end
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[image rank name title dates].freeze
+      %w[image name title start end].freeze
+    end
+
+    def name_node
+      name_cell.css('b a')
     end
 
     def empty?
-      raw_combo_date.include?('?') || raw_combo_date.include?('Early')
+      start_cell.text.include?('?') || end_cell.text.include?('?') || start_cell.text.include?('Early')
     end
   end
 end
