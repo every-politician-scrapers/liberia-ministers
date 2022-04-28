@@ -1,22 +1,15 @@
 @@,wdid,name,position
-->,Q99485794->NULL,Daniel Dee Ziankahn,Defence minister of Liberia->Minister of National Defense
-->,Q95952220->NULL,Moses Y. Kollie,Minister of Labour->Minister of Labor
-->,Q9266530->NULL,Gbehzohngar Findley->Gbehzohngar Milton Findley,Minister of Foreign Affairs
-->,Q60432513->NULL,Wilson Tarpeh->Wilson K. Tarpeh,Minister of Commerce and Industry
+->,Q99485794,Daniel Dee Ziankahn,Defence minister of Liberia->Minister of National Defense
+->,Q95952220,Moses Y. Kollie,Minister of Labour->Minister of Labor
+->,Q9266530,Gbehzohngar Findley->Gbehzohngar Milton Findley,Minister of Foreign Affairs
+->,Q60432513,Wilson Tarpeh->Wilson K. Tarpeh,Minister of Commerce and Industry
 ->,Q173139,George Weah,President of Liberia->President
 ->,Q1688608,Jewel Taylor,Vice President of Liberia->Vice President
-->,Q16207934->NULL,Eugene Lenn Nagbe,"Minister of Information, Culture, and Tourism"
-->,Q110517595->NULL,Trokon A. Kpui->Trokon A. Kpu,Minister of State without Portfolio
-->,Q110517593->NULL,Nathaniel F. McGill,Minister of State for Presidential Affairs
-->,Q110517588->NULL,Samuel Wlue,Minister of Transport
-->,Q110517581->NULL,Dester Zeogar Wilson,Minister of Youth and Sport
-->,Q110517575->NULL,Gesler E. Murray,"Minister of Lands, Mines, and Energy"
-->,Q110517574->NULL,Williamina Jallah,"Minister of Health and Social Welfare, Liberia->Minister of Health and Social Welfare"
-->,Q110517569->NULL,Mobutu Nyenpan,Minister of Public Works
-->,Q110517567->NULL,Cooper Kruah,Minister of Posts and Telecommunications
-->,Q110517565->NULL,Ansu Sonii,Education Minister of Liberia->Minister of Education
-->,Q110517560->NULL,Varney A. Sirleaf,Minister of Internal Affairs
-->,Q110517550->NULL,Musa F. Dean,Justice minister of Liberia->Minister of Justice and Attorney-General
+->,Q110517595,Trokon A. Kpui->Trokon A. Kpu,Minister of State without Portfolio
+->,Q110517574,Williamina Jallah,"Minister of Health and Social Welfare, Liberia->Minister of Health and Social Welfare"
+->,Q110517565,Ansu Sonii,Education Minister of Liberia->Minister of Education
+->,Q110517560,Varney Ali Sirleaf->Varney A. Sirleaf,Minister of Internal Affairs
+->,Q110517550,Musa F. Dean,Justice minister of Liberia->Minister of Justice and Attorney-General
 ---,Q60169093,Williametta Saydee-Tarr,Minister of Gender and Development
 ---,Q110518154,Mogana Flomo,"Minister of Agriculture, Liberia"
 ---,Q110515210,Samuel D. Tweah,Finance Minister of Liberia
