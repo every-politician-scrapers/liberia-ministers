@@ -348,7 +348,18 @@
               "text": "no image.png"
             },
             "col2": {
-              "text": "Franklin J. Smith"
+              "text": "Franklin J. Smith",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Franklin J. Smith"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Franklin J. Smith"
+                ]
+              }
             },
             "col3": {
               "text": "Chief of Staff of the AFL"
