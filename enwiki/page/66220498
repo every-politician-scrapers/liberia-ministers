@@ -625,6 +625,40 @@
           },
           {
             "col1": {
+              "text": "no image.png"
+            },
+            "col2": {
+              "text": "Major General Luka Yusuf (1952–2009)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Luka Yusuf"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Luka Yusuf"
+                ]
+              }
+            },
+            "col3": {
+              "text": "Command Officer-in-Charge"
+            },
+            "col4": {
+              "text": "February 2006"
+            },
+            "col5": {
+              "text": "May 2007"
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
+              "text": ""
+            }
+          },
+          {
+            "col1": {
               "text": "Suraj Abdurrahman (4618446285) (cropped).jpg"
             },
             "col2": {
@@ -746,6 +780,17 @@
             "1990",
             "07",
             "05"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
+            "2006",
+            "02",
+            "01",
+            "2007",
+            "05",
+            "31"
           ],
           "template": "ayd"
         },
