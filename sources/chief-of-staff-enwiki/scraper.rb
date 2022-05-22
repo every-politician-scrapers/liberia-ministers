@@ -23,7 +23,11 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      start_cell.text.include?('?') || end_cell.text.include?('?') || start_cell.text.include?('Early')
+      start_cell.text.include?('?') || end_cell.text.include?('?') || start_cell.text.include?('Early') || super
+    end
+
+    def ignore_before
+      1999
     end
   end
 end
