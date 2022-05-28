@@ -18,16 +18,12 @@ class OfficeholderList < OfficeholderListBase
       %w[image name title start end].freeze
     end
 
-    def name_node
-      name_cell.css('b a')
+    def name_cell
+      super.css('b')
     end
 
     def empty?
       start_cell.text.include?('?') || end_cell.text.include?('?') || start_cell.text.include?('Early') || super
-    end
-
-    def ignore_before
-      1999
     end
   end
 end
