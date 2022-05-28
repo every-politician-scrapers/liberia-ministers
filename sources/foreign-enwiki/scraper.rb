@@ -4,8 +4,6 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-require 'open-uri/cached'
-
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
@@ -20,12 +18,9 @@ class OfficeholderList < OfficeholderListBase
       %w[ordinal img name dates].freeze
     end
 
-    def endDate
-      super || startDate
-    end
-
-    def tds
-      noko.css('td,th')
+    def raw_combo_date
+      years = super
+      years =~  /^\d{4}$/ ? "#{years} - #{years}" : years
     end
   end
 end
