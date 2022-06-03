@@ -900,10 +900,10 @@
           "type": "news"
         },
         {
+          "url": "https://search.wikileaks.org/plusd/cables/1979MONROV06992_e.html",
+          "title": "(u) Major Army Command Shake-Up",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "author1": "Admin",
